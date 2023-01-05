@@ -1,0 +1,49 @@
+a {
+	display: block;
+	background-color: #48D1CC;
+	color: purple;
+	text-decoration: none;
+	font-size: 1.5em;
+	padding: 6px 4px;
+	margin: 4px;
+	border-right: 2px solid #AFEEEE;
+	border-bottom: 2px solid #AFEEEE;
+	border-top-width: 0px;
+	border-left-width: 0px;
+}
+a:hover
+{
+	color: #8F00FF;
+	border: 1px solid #9999ff;
+}
+a:active
+{
+	color: #DDA0DD;
+	border-left: 2px solid #030;
+	border-top: 2px solid #030;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+}
+#text{
+	color: white;
+}
+body{
+				/* Background pattern from subtlepatterns.com */
+				background-image: url("spiration-dark.png");
+				font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#container
+{
+	text-align: center;
+	background-color: black;
+    color:white;
+	width: 1000px;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	-webkit-box-shadow: 3px 3px 30px 5px rgba(102, 51, 153,0.9);
+	-moz-box-shadow: 3px 3px 30px 5px rgba(102, 51, 153,0.9);
+	box-shadow: 3px 3px 30px 5px rgba(102, 51, 153,0.9);
+    font-family: 'Segoe UI', sans-serif;
+}
