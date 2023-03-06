@@ -1,2 +1,3 @@
 # dashboard
-A dashboard for my projects. Requires the projects separately and put into specific directories as found in code.
+A dashboard for my projects.<br>
+Warning: some projects' index files require a local webpage host like XAMPP due to using PHP and working with databases.
